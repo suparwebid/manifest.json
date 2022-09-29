@@ -1,0 +1,39 @@
+{
+  "name": "SUPAR.WEB.ID",
+  "short_name": "SUPAR.WEB.ID",
+  "scope": "/",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#2B0C93",
+  "description": "an official website of supar",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-S0mRH9DGb0E/YWakitlBsnI/AAAAAAAAJhA/nsDa6Y5OC6cm-hIchv_AcjonQPVKrDfFgCLcBGAsYHQ/s48/Logo%2BManifest.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-S0mRH9DGb0E/YWakitlBsnI/AAAAAAAAJhA/nsDa6Y5OC6cm-hIchv_AcjonQPVKrDfFgCLcBGAsYHQ/s72/Logo%2BManifest.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-S0mRH9DGb0E/YWakitlBsnI/AAAAAAAAJhA/nsDa6Y5OC6cm-hIchv_AcjonQPVKrDfFgCLcBGAsYHQ/s96/Logo%2BManifest.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-S0mRH9DGb0E/YWakitlBsnI/AAAAAAAAJhA/nsDa6Y5OC6cm-hIchv_AcjonQPVKrDfFgCLcBGAsYHQ/s144/Logo%2BManifest.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-S0mRH9DGb0E/YWakitlBsnI/AAAAAAAAJhA/nsDa6Y5OC6cm-hIchv_AcjonQPVKrDfFgCLcBGAsYHQ/s168/Logo%2BManifest.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-S0mRH9DGb0E/YWakitlBsnI/AAAAAAAAJhA/nsDa6Y5OC6cm-hIchv_AcjonQPVKrDfFgCLcBGAsYHQ/s192/Logo%2BManifest.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-S0mRH9DGb0E/YWakitlBsnI/AAAAAAAAJhA/nsDa6Y5OC6cm-hIchv_AcjonQPVKrDfFgCLcBGAsYHQ/s512/Logo%2BManifest.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
